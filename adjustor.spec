@@ -1,5 +1,5 @@
 Name:           hhd-adjustor
-Version:        2.1.3
+Version:        2.1.4
 Release:        1%{?dist}
 Summary:        Adjustor, a userspace program for managing the TDP of handheld devices.
 
